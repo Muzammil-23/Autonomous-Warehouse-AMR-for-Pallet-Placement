@@ -19,6 +19,11 @@ Developed for National Engineering and Robotics Contest (NERC) in 2026, this rob
 - **Color Detection:** TCS34725 sensor for blue color identification during pallet placement
 - **State Management:** Multi-phase operation with graceful transitions
 
+## Robot Photos
+| Front View | Side View | 
+|------------|-----------|
+| ![Front](images/front_view.jpeg) | ![Side](images/side_view.jpeg) |
+
 ### 🏗️ System Architecture
 Phase 1: Grid Navigation 
 Navigates the arena autonomously.
