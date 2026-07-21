@@ -53,7 +53,7 @@ Phase 3: Pallet Placement
 | MG996R | Pallet push/retract | 1 |
 | Push Buttons (x2) | Calibration & Start | 2 |
 
-##Assembled robot in SolidWorks
+## Assembled robot in SolidWorks
 ![Assembled robot in Solidworks](images/Complete_assembly.jpeg)
 
 
